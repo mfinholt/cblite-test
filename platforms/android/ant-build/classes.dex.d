@@ -1,0 +1,24 @@
+/Users/mfinholt/Projects/Tangerine-Refactor/Tangerine-Couchbase-Lite/Tangerine/cblite-test/platforms/android/ant-build/classes.dex : \
+/Users/mfinholt/Projects/Tangerine-Refactor/Tangerine-Couchbase-Lite/Tangerine/cblite-test/platforms/android/ant-build/classes/com/couchbase/cblite/phonegap/CBLite.class \
+/Users/mfinholt/Projects/Tangerine-Refactor/Tangerine-Couchbase-Lite/Tangerine/cblite-test/platforms/android/ant-build/classes/io/cordova/hellocordova/BuildConfig.class \
+/Users/mfinholt/Projects/Tangerine-Refactor/Tangerine-Couchbase-Lite/Tangerine/cblite-test/platforms/android/ant-build/classes/io/cordova/hellocordova/CordovaApp.class \
+/Users/mfinholt/Projects/Tangerine-Refactor/Tangerine-Couchbase-Lite/Tangerine/cblite-test/platforms/android/ant-build/classes/io/cordova/hellocordova/R$attr.class \
+/Users/mfinholt/Projects/Tangerine-Refactor/Tangerine-Couchbase-Lite/Tangerine/cblite-test/platforms/android/ant-build/classes/io/cordova/hellocordova/R$drawable.class \
+/Users/mfinholt/Projects/Tangerine-Refactor/Tangerine-Couchbase-Lite/Tangerine/cblite-test/platforms/android/ant-build/classes/io/cordova/hellocordova/R$string.class \
+/Users/mfinholt/Projects/Tangerine-Refactor/Tangerine-Couchbase-Lite/Tangerine/cblite-test/platforms/android/ant-build/classes/io/cordova/hellocordova/R$xml.class \
+/Users/mfinholt/Projects/Tangerine-Refactor/Tangerine-Couchbase-Lite/Tangerine/cblite-test/platforms/android/ant-build/classes/io/cordova/hellocordova/R.class \
+/Users/mfinholt/Projects/Tangerine-Refactor/Tangerine-Couchbase-Lite/Tangerine/cblite-test/platforms/android/ant-build/dexedLibs/classes-83006dd1083e54e60ef9f7a5ed7e52bf.jar \
+/Users/mfinholt/Projects/Tangerine-Refactor/Tangerine-Couchbase-Lite/Tangerine/cblite-test/platforms/android/ant-build/dexedLibs/couchbase-lite-android-1.0.3.1-9e52431a9f32bbd10aaca38126b56303.jar \
+/Users/mfinholt/Projects/Tangerine-Refactor/Tangerine-Couchbase-Lite/Tangerine/cblite-test/platforms/android/ant-build/dexedLibs/couchbase-lite-java-javascript-1.0.3.1-5abe050bf76d4ff0ac9e2edcaec4f3b3.jar \
+/Users/mfinholt/Projects/Tangerine-Refactor/Tangerine-Couchbase-Lite/Tangerine/cblite-test/platforms/android/ant-build/dexedLibs/servlet-2-3-26b778f2ca5efe97e2731f68e03a0f5a.jar \
+/Users/mfinholt/Projects/Tangerine-Refactor/Tangerine-Couchbase-Lite/Tangerine/cblite-test/platforms/android/ant-build/dexedLibs/rhino-1.7R3-909f7ee783f1bc532f33be4c20eb4322.jar \
+/Users/mfinholt/Projects/Tangerine-Refactor/Tangerine-Couchbase-Lite/Tangerine/cblite-test/platforms/android/ant-build/dexedLibs/webserver-2-3-6524aa639ffc20db5d539018619d411b.jar \
+/Users/mfinholt/Projects/Tangerine-Refactor/Tangerine-Couchbase-Lite/Tangerine/cblite-test/platforms/android/ant-build/dexedLibs/stateless4j-2.4.0-b1ea21b495700bc933e741fa18479ab2.jar \
+/Users/mfinholt/Projects/Tangerine-Refactor/Tangerine-Couchbase-Lite/Tangerine/cblite-test/platforms/android/ant-build/dexedLibs/couchbase-lite-java-core-1.0.3.1-bdc64159b4d2972439203e7aa2c097b2.jar \
+/Users/mfinholt/Projects/Tangerine-Refactor/Tangerine-Couchbase-Lite/Tangerine/cblite-test/platforms/android/ant-build/dexedLibs/jackson-mapper-asl-1.9.2-9980a3f33b0a9988627fbdc299e5c594.jar \
+/Users/mfinholt/Projects/Tangerine-Refactor/Tangerine-Couchbase-Lite/Tangerine/cblite-test/platforms/android/ant-build/dexedLibs/commons-io-2.0.1-70ed3410eaad47c55ccbc537b8b2dfea.jar \
+/Users/mfinholt/Projects/Tangerine-Refactor/Tangerine-Couchbase-Lite/Tangerine/cblite-test/platforms/android/ant-build/dexedLibs/jackson-core-asl-1.9.2-094567a240489682ded04d004ee89ad7.jar \
+/Users/mfinholt/Projects/Tangerine-Refactor/Tangerine-Couchbase-Lite/Tangerine/cblite-test/platforms/android/ant-build/dexedLibs/cbl_collator_so-1.0.3.1-42ac63c88622c830a0573ab6c3ac17d1.jar \
+/Users/mfinholt/Projects/Tangerine-Refactor/Tangerine-Couchbase-Lite/Tangerine/cblite-test/platforms/android/ant-build/dexedLibs/couchbase-lite-java-listener-1.0.3.1-8b03e88c8eef7eb16f866cc1b1facd9f.jar \
+/Users/mfinholt/Projects/Tangerine-Refactor/Tangerine-Couchbase-Lite/Tangerine/cblite-test/platforms/android/ant-build/dexedLibs/couchbase-lite-android-javadocs-community-1.0.3.1-c47cb1dc96143a8aa6ead6580107a779.jar \
+/Users/mfinholt/Projects/Tangerine-Refactor/Tangerine-Couchbase-Lite/Tangerine/cblite-test/platforms/android/ant-build/dexedLibs/couchbase-lite-android-source-1.0.3.1-6d3bc0cb200c9cc0cc9947ff5387fd7a.jar \

@@ -1,0 +1,17 @@
+{
+    "version": "1.0.3-64bit",
+    "name": "com.couchbase.lite.phonegap",
+    "cordova_name": "Couchbase Lite",
+    "description": "Install Couchbase Lite in your app to enable JSON sync.",
+    "license": "Apache 2.0",
+    "platforms": [
+        "ios",
+        "android"
+    ],
+    "engines": [
+        {
+            "name": "cordova",
+            "version": ">=3.0.0"
+        }
+    ]
+}
